@@ -2,7 +2,8 @@
 
 SmartFix é uma distribuição de software livre localizada para o Brasil com fork utilizando o QuickFix/N.
 
-Este README é sobre como configurar seu sistema para o desenvolvimento do SmartFix.
+O SmartFix e dedicado a corretoras brasileiras e adeptos à utilização de comunicação do do protocolo FIX em .NET. 
+
 
 System Setup
 ------------
