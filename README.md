@@ -110,10 +110,13 @@ Para executar um teste no depurador,
   8. No terminal de comando, vá para o diretório "AcceptanceTest"
   9. Execute: `ruby Runner.rb 127.0.0.1 5001 settings\server\fix42\YourTestName.def`
 
-Credits
+Créditos
 -------
 
-Cassio Antunes - Engenheiro de Software
+Cassio Antunes
+connamara/quickfixn
+www.quickfixengine.org
+
 
 Licenciamento
 ---------
